@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=morachris" alt="morachris" />
 </p>
 
-[![Linkedin | Christopher Mora](https://img.shields.io/badge/-LinkedIn&nbsp;|&nbsp;Christopher&nbsp;Mora-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/christopher-mora-álvarez-51a729395)
+[![Linkedin | Christopher Mora](https://img.shields.io/badge/-LinkedIn&nbsp;|&nbsp;Christopher&nbsp;Mora-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-mora-álvarez-51a729395)
 [![Gmail | cfmora09@gmail.com](https://img.shields.io/badge/-Gmail&nbsp;|&nbsp;cfmora09@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cfmora09@gmail.com)
 
 Web Developer | Aspiring Full-Stack Developer  
@@ -53,7 +53,7 @@ Each project is an excuse to learn something new.
 
 ## Let’s Connect 💛
 
-📎 LinkedIn: [Christopher Mora](www.linkedin.com/in/christopher-mora-álvarez-51a729395)  
+📎 LinkedIn: [Christopher Mora](https://www.linkedin.com/in/christopher-mora-álvarez-51a729395)  
 📧 Email: [cfmora09@gmail.com](mailto:cfmora09@gmail.com)
 
 ⭐ *Thanks for stopping by. Feel free to explore my profile or reach out to me!* ⭐
