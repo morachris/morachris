@@ -1,4 +1,4 @@
-# Nice to meet you! 🙌
+# I'm Chris. Nice to meet you! 🙌
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=morachris" alt="morachris" />
 </p>
@@ -50,7 +50,7 @@ Each project is an excuse to learn something new.
 
 ## Let’s Connect 💛
 
-📎 LinkedIn: [Christopher Mora](https://linkedin.com/in/TU_PERFIL)  
+📎 LinkedIn: [Christopher Mora](www.linkedin.com/in/christopher-mora-álvarez-51a729395)  
 📧 Email: [cfmora09@gmail.com](mailto:cfmora09@gmail.com)
 
 ⭐ *Thanks for stopping by. Feel free to explore my profile or reach out to me!* ⭐
