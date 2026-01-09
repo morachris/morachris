@@ -40,10 +40,10 @@ Each project is an excuse to learn something new.
 ## GitHub Stats 📊
 
 <!-- GitHub Stats -->
-![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight)
+![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=morachris&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morachris&layout=compact&theme=tokyonight)
 
 ## Currently Learning 🌱
 
