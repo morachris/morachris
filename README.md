@@ -32,6 +32,9 @@ I’m especially interested in:
 
 *More coming soon…* 🚧
 
+- Educational applications or platforms
+- Creative, personal projects I've worked on
+
 Each project is an excuse to learn something new.
 
 ## GitHub Stats 📊
